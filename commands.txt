@@ -1,0 +1,4 @@
+// to run the server api => command
+ json-server --watch data.json --port 5000
+//to install 
+npm i -g json-server
